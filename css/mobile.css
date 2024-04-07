@@ -1,0 +1,12 @@
+.sidebar a {
+    text-align: center;
+    float: none;
+  }
+.list-group{
+    margin-left: 0;
+    width: 100%;
+}
+.box a{
+  width: 100%;
+  text-align:left;
+}
